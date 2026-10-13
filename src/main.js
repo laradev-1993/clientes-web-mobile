@@ -6,9 +6,10 @@ import { createApp } from "vue";
 // - Tener un componente raíz
 import App from "./App.vue";
 import router from "./router/router.js";
+import './style.css';
+
+
 // - Tener un elemento de HTML con un id donde poder montar la app (Ya está en el index el div con id="app").
-
-
 
 //-----------------
 // Se crea la aplicación:
